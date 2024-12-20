@@ -491,6 +491,10 @@ textarea {
   margin-bottom: 16px;
 }
 
+.footer-subscibe-container {
+  margin-left: 80px;
+}
+
 .footer-subscribe {
   font-weight: 500;
   font-size: 16px;
@@ -498,7 +502,6 @@ textarea {
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
-  margin-left: 80px;
 }
 
 .email-subscribe {
@@ -513,7 +516,6 @@ textarea {
   line-height: 2;
   letter-spacing: 0.04em;
   color: #ffffff;
-  margin-left: 80px;
 }
 
 .footer-form {
